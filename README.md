@@ -15,5 +15,8 @@ streamlit run app.py
 ML 6 : pip install flask
 
 then run python app.py give input :Jumanji (1995) (exact input)
+
+algo:
+http://anotepad.com/folders/fiifcbca
   
 
